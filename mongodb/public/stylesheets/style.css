@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: linear-gradient(45deg, #9890e3, #b1f4cf);
+
+}
+html, body {
+  height: 100%;
+}
+a {
+  color: #d6d5dc;
+}
+input {
+  border-radius: 25%;
+  text-align: center;
+  background: linear-gradient(45deg, #e6e9f0, #eef1f5);
+}
+.div {
+  
+}
+.submit {
+  margin-left: 90px;
+  background: linear-gradient(45deg, #fff1eb, #ace0f9);
+}
+.submit:hover {
+  background: linear-gradient(45deg, #d299c2, #fef9d7);;
+}
